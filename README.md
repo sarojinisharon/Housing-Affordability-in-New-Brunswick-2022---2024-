@@ -16,8 +16,8 @@ This project analyzes rental housing trends in New Brunswick between 2022 and 20
 
 ## 🔗 Links
 
-- ** Tableau Public Dashboard:** [View Here](https://public.tableau.com/app/profile/sarojini.sharon.robert.kennedy/viz/Book1_17483604941290/HousingAffordabilityTrendsinNewBrunswick2022-2024) 
-- ** Full Notion Case Study:** [Read Here](https://www.notion.so/Case-Study-Data-Job-Market-Analysis-in-Tableau-1f972dc20d69803e87e3e0c230bfd4af?pvs=4)
+-  Tableau Public Dashboard: [View Here](https://public.tableau.com/app/profile/sarojini.sharon.robert.kennedy/viz/Book1_17483604941290/HousingAffordabilityTrendsinNewBrunswick2022-2024) 
+-  Full Notion Case Study: [Read Here](https://www.notion.so/Case-Study-Data-Job-Market-Analysis-in-Tableau-1f972dc20d69803e87e3e0c230bfd4af?pvs=4)
 
 ##  Key Takeaways
 - Rent is rising steadily across NB, especially for 2BR+ units
